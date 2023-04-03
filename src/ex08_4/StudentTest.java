@@ -36,8 +36,6 @@ public class StudentTest {
 		//-> kim이 count를 2로 만들어놓음.
 		
 		System.out.println("================================");
-		System.out.println("Studen 객체 몇개 만들었나?  "+ Student.count+"개");
-		
+		System.out.println("Student 객체 몇개 만들었나?  "+ Student.count+"개");
 	}
-
 }
