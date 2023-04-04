@@ -8,7 +8,6 @@ public class AccountTest {
 		acc.setBalance(10000);
 		System.out.printf("잔액: %d", acc.getBalance());
 	}
-
 }
 
 class Account {
@@ -21,6 +20,5 @@ class Account {
 		// setter 메소드 > 인자를 받음.
 		public void setBalance(int b) {
 			balance = b;
-		}
-		
+		}	
 }
