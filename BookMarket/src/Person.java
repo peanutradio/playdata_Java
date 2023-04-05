@@ -25,7 +25,7 @@ public class Person {
 		this.name = name;
 	}
 	
-	public int getphone() {
+	public int getPhone() {
 		return phone;
 	}
 	public void setPhone(int phone) {
